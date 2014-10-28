@@ -1,16 +1,16 @@
 <!DOCTYPE html>
-<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"  dir="ltr" lang="en-US"> <!--<![endif]-->
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="ru"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="ru"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="ru"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"  dir="ltr" lang="ru"> <!--<![endif]-->
 <head>
 <meta charset="utf-8">
 <!-- Set the viewport width to device width for mobile -->
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="author" content="chaos">
-<meta name="Description" content="Asphalt Mixing Plant, Asphalt Plant Sale, Asphalt Plant Export" />
+<meta name="Description" content="Асфальтосмесительная установка, Асфальтобетонный завод продажа, Асфальтобетонный завод экспорт" />
 <link rel="shortcut icon" href="{{asset('img/favicon.ico')}}">
-<title>Hanvy - Asphalt Mixing Plant</title>
+<title>Hanvy - Асфальтосмесительная установка</title>
 <link href="{{asset('assets/css/reset.css')}}" rel="stylesheet" type="text/css" media="screen" />
 <link href="{{asset('assets/css/styles.css')}}" rel="stylesheet" type="text/css" media="screen" />
 <!--[if gt IE 8]><!--><link href="{{asset('assets/css/retina-responsive.css')}}" rel="stylesheet" type="text/css" media="screen" /><!--<![endif]-->
