@@ -78,6 +78,16 @@
              </div>
         </div>
 
+    <div class="element home clearfix col2-3 services">
+               <div class="images"><img src="{{asset('img/canshu_3.jpg')}}" alt="" /></div>
+    </div>
+
+        <div class="element home clearfix col1-3 borders portfolio overflow">
+            <div class="movable-content">
+                <div class="images"><img src="{{asset('img/asphalt-mixing-plant-3.jpg')}}" alt="" /></div>
+             </div>
+        </div>
+
     <div class="element home clearfix col1-3 border services">
       <h3>Опросный лист</h3>
       <p>Для обеспечения точного выбора конфигурации, пожалуйста, свяжитесь с нами чтобы получить опросный лист.<br/><br/></p>
